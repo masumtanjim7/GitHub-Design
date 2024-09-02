@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ## Visitors
+ ## Inspectors
 ![Visitor Count](https://profile-counter.glitch.me/masumtanjim7/count.svg)
 
 # Statistics
