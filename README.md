@@ -1,5 +1,6 @@
-# Tanjim Hasan Masum
 <!--
+# Tanjim Hasan Masum
+
 ## Who am I ?
 <div style="text-align: justify;">
 I am MD. Abdullah Al Shakil. I am an intern at BASIS - BITM under the PHP with Laravel program. Through this program, I have very good knowledge of front-end development with the Bootstrap framework and back-end development with raw PHP along with the Laravel framework. Also, I have completed short training at WSDA - Workplace Skill Development Academy (New Zealand). Again, I am going with my two theses at this time on medical imaging. The first one is on medical imaging, and it is almost done. The second one is the Anti-Money Laundering System using machine learning and deep learning.</div><br/>
@@ -48,7 +49,3 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=masumtanjim7&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 -->
-
-
-
- masumtanjim7
